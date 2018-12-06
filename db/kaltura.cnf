@@ -1,0 +1,4 @@
+[mysqld]
+innodb_log_file_size=32MB
+lower_case_table_names=1
+max_allowed_packet=16M

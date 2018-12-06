@@ -1,0 +1,54 @@
+[Thu Dec 06 03:12:06.415291 2018] [suexec:notice] [pid 9] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Thu Dec 06 03:12:06.466441 2018] [http2:warn] [pid 9] AH10034: The mpm module (prefork.c) is not supported by mod_http2. The mpm determines how things are processed in your server. HTTP/2 has more demands in this regard and the currently selected mpm will just not do. This is an advisory warning. Your server will continue to work, but the HTTP/2 protocol will be inactive.
+[Thu Dec 06 03:12:06.466457 2018] [http2:warn] [pid 9] AH02951: mod_ssl does not seem to be enabled
+[Thu Dec 06 03:12:06.466926 2018] [lbmethod_heartbeat:notice] [pid 9] AH02282: No slotmem from mod_heartmonitor
+[Thu Dec 06 03:12:06.684329 2018] [mpm_prefork:notice] [pid 9] AH00163: Apache/2.4.34 (Amazon) PHP/7.1.23 configured -- resuming normal operations
+[Thu Dec 06 03:12:06.684366 2018] [core:notice] [pid 9] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Thu Dec 06 03:18:03.233838 2018] [suexec:notice] [pid 9] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Thu Dec 06 03:18:03.248025 2018] [http2:warn] [pid 9] AH10034: The mpm module (prefork.c) is not supported by mod_http2. The mpm determines how things are processed in your server. HTTP/2 has more demands in this regard and the currently selected mpm will just not do. This is an advisory warning. Your server will continue to work, but the HTTP/2 protocol will be inactive.
+[Thu Dec 06 03:18:03.261312 2018] [http2:warn] [pid 9] AH02951: mod_ssl does not seem to be enabled
+[Thu Dec 06 03:18:03.262403 2018] [lbmethod_heartbeat:notice] [pid 9] AH02282: No slotmem from mod_heartmonitor
+[Thu Dec 06 03:18:03.291244 2018] [mpm_prefork:notice] [pid 9] AH00163: Apache/2.4.34 (Amazon) PHP/7.1.23 configured -- resuming normal operations
+[Thu Dec 06 03:18:03.291282 2018] [core:notice] [pid 9] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Thu Dec 06 03:50:39.879039 2018] [suexec:notice] [pid 9] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Thu Dec 06 03:50:39.954065 2018] [http2:warn] [pid 9] AH10034: The mpm module (prefork.c) is not supported by mod_http2. The mpm determines how things are processed in your server. HTTP/2 has more demands in this regard and the currently selected mpm will just not do. This is an advisory warning. Your server will continue to work, but the HTTP/2 protocol will be inactive.
+[Thu Dec 06 03:50:39.954098 2018] [http2:warn] [pid 9] AH02951: mod_ssl does not seem to be enabled
+[Thu Dec 06 03:50:39.954583 2018] [lbmethod_heartbeat:notice] [pid 9] AH02282: No slotmem from mod_heartmonitor
+[Thu Dec 06 03:50:40.242819 2018] [mpm_prefork:notice] [pid 9] AH00163: Apache/2.4.34 (Amazon) PHP/7.1.23 configured -- resuming normal operations
+[Thu Dec 06 03:50:40.242909 2018] [core:notice] [pid 9] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Thu Dec 06 04:16:47.265772 2018] [suexec:notice] [pid 9] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Thu Dec 06 04:16:47.298288 2018] [http2:warn] [pid 9] AH10034: The mpm module (prefork.c) is not supported by mod_http2. The mpm determines how things are processed in your server. HTTP/2 has more demands in this regard and the currently selected mpm will just not do. This is an advisory warning. Your server will continue to work, but the HTTP/2 protocol will be inactive.
+[Thu Dec 06 04:16:47.298304 2018] [http2:warn] [pid 9] AH02951: mod_ssl does not seem to be enabled
+[Thu Dec 06 04:16:47.298777 2018] [lbmethod_heartbeat:notice] [pid 9] AH02282: No slotmem from mod_heartmonitor
+[Thu Dec 06 04:16:47.617295 2018] [mpm_prefork:notice] [pid 9] AH00163: Apache/2.4.34 (Amazon) PHP/7.1.23 configured -- resuming normal operations
+[Thu Dec 06 04:16:47.617513 2018] [core:notice] [pid 9] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Thu Dec 06 04:41:30.978568 2018] [suexec:notice] [pid 9] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Thu Dec 06 04:41:30.999507 2018] [http2:warn] [pid 9] AH10034: The mpm module (prefork.c) is not supported by mod_http2. The mpm determines how things are processed in your server. HTTP/2 has more demands in this regard and the currently selected mpm will just not do. This is an advisory warning. Your server will continue to work, but the HTTP/2 protocol will be inactive.
+[Thu Dec 06 04:41:30.999524 2018] [http2:warn] [pid 9] AH02951: mod_ssl does not seem to be enabled
+[Thu Dec 06 04:41:30.999997 2018] [lbmethod_heartbeat:notice] [pid 9] AH02282: No slotmem from mod_heartmonitor
+[Thu Dec 06 04:41:31.323260 2018] [mpm_prefork:notice] [pid 9] AH00163: Apache/2.4.34 (Amazon) PHP/7.1.23 configured -- resuming normal operations
+[Thu Dec 06 04:41:31.323293 2018] [core:notice] [pid 9] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Thu Dec 06 04:44:17.710075 2018] [suexec:notice] [pid 9] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Thu Dec 06 04:44:17.727344 2018] [http2:warn] [pid 9] AH10034: The mpm module (prefork.c) is not supported by mod_http2. The mpm determines how things are processed in your server. HTTP/2 has more demands in this regard and the currently selected mpm will just not do. This is an advisory warning. Your server will continue to work, but the HTTP/2 protocol will be inactive.
+[Thu Dec 06 04:44:17.727364 2018] [http2:warn] [pid 9] AH02951: mod_ssl does not seem to be enabled
+[Thu Dec 06 04:44:17.727854 2018] [lbmethod_heartbeat:notice] [pid 9] AH02282: No slotmem from mod_heartmonitor
+[Thu Dec 06 04:44:17.761303 2018] [mpm_prefork:notice] [pid 9] AH00163: Apache/2.4.34 (Amazon) PHP/7.1.23 configured -- resuming normal operations
+[Thu Dec 06 04:44:17.761335 2018] [core:notice] [pid 9] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Thu Dec 06 07:21:18.097833 2018] [suexec:notice] [pid 9] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Thu Dec 06 07:21:18.115573 2018] [http2:warn] [pid 9] AH10034: The mpm module (prefork.c) is not supported by mod_http2. The mpm determines how things are processed in your server. HTTP/2 has more demands in this regard and the currently selected mpm will just not do. This is an advisory warning. Your server will continue to work, but the HTTP/2 protocol will be inactive.
+[Thu Dec 06 07:21:18.115584 2018] [http2:warn] [pid 9] AH02951: mod_ssl does not seem to be enabled
+[Thu Dec 06 07:21:18.115907 2018] [lbmethod_heartbeat:notice] [pid 9] AH02282: No slotmem from mod_heartmonitor
+[Thu Dec 06 07:21:18.164190 2018] [mpm_prefork:notice] [pid 9] AH00163: Apache/2.4.34 (Amazon) PHP/7.1.23 configured -- resuming normal operations
+[Thu Dec 06 07:21:18.164266 2018] [core:notice] [pid 9] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Thu Dec 06 07:51:21.353874 2018] [suexec:notice] [pid 9] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Thu Dec 06 07:51:21.443221 2018] [http2:warn] [pid 9] AH10034: The mpm module (prefork.c) is not supported by mod_http2. The mpm determines how things are processed in your server. HTTP/2 has more demands in this regard and the currently selected mpm will just not do. This is an advisory warning. Your server will continue to work, but the HTTP/2 protocol will be inactive.
+[Thu Dec 06 07:51:21.443258 2018] [http2:warn] [pid 9] AH02951: mod_ssl does not seem to be enabled
+[Thu Dec 06 07:51:21.444158 2018] [lbmethod_heartbeat:notice] [pid 9] AH02282: No slotmem from mod_heartmonitor
+[Thu Dec 06 07:51:21.559012 2018] [mpm_prefork:notice] [pid 9] AH00163: Apache/2.4.34 (Amazon) PHP/7.1.23 configured -- resuming normal operations
+[Thu Dec 06 07:51:21.574734 2018] [core:notice] [pid 9] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Thu Dec 06 08:07:48.584335 2018] [suexec:notice] [pid 9] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Thu Dec 06 08:07:48.661311 2018] [http2:warn] [pid 9] AH10034: The mpm module (prefork.c) is not supported by mod_http2. The mpm determines how things are processed in your server. HTTP/2 has more demands in this regard and the currently selected mpm will just not do. This is an advisory warning. Your server will continue to work, but the HTTP/2 protocol will be inactive.
+[Thu Dec 06 08:07:48.703013 2018] [http2:warn] [pid 9] AH02951: mod_ssl does not seem to be enabled
+[Thu Dec 06 08:07:48.704843 2018] [lbmethod_heartbeat:notice] [pid 9] AH02282: No slotmem from mod_heartmonitor
+[Thu Dec 06 08:07:48.913572 2018] [mpm_prefork:notice] [pid 9] AH00163: Apache/2.4.34 (Amazon) PHP/7.1.23 configured -- resuming normal operations
+[Thu Dec 06 08:07:48.913726 2018] [core:notice] [pid 9] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
